@@ -3,7 +3,7 @@ This study presents a comprehensive exploration of the hyperparameter optimizati
 
 Keywords: intrusion-detection system; NIDS; convolutional neural network; 1D-CNN; hyperparameter optimization; genetic algorithm; GA; particle swarm optimization; PSO
 
-https://www.mdpi.com/2227-7390/11/17/3724
+# https://www.mdpi.com/2227-7390/11/17/3724
 
 MDPI and ACS Style
 
