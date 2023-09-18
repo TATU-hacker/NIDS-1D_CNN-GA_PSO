@@ -6,10 +6,13 @@ Keywords: intrusion-detection system; NIDS; convolutional neural network; 1D-CNN
 https://www.mdpi.com/2227-7390/11/17/3724
 
 MDPI and ACS Style
+
 Kilichev, D.; Kim, W. Hyperparameter Optimization for 1D-CNN-Based Network Intrusion Detection Using GA and PSO. Mathematics 2023, 11, 3724. https://doi.org/10.3390/math11173724
 
 AMA Style
+
 Kilichev D, Kim W. Hyperparameter Optimization for 1D-CNN-Based Network Intrusion Detection Using GA and PSO. Mathematics. 2023; 11(17):3724. https://doi.org/10.3390/math11173724
 
 Chicago/Turabian Style
+
 Kilichev, Dusmurod, and Wooseong Kim. 2023. "Hyperparameter Optimization for 1D-CNN-Based Network Intrusion Detection Using GA and PSO" Mathematics 11, no. 17: 3724. https://doi.org/10.3390/math11173724
