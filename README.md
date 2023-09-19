@@ -14,3 +14,16 @@ Kilichev D, Kim W. Hyperparameter Optimization for 1D-CNN-Based Network Intrusio
 Chicago/Turabian Style
 
 Kilichev, Dusmurod, and Wooseong Kim. 2023. "Hyperparameter Optimization for 1D-CNN-Based Network Intrusion Detection Using GA and PSO" Mathematics 11, no. 17: 3724. https://doi.org/10.3390/math11173724
+
+
+@Article{math11173724,
+AUTHOR = {Kilichev, Dusmurod and Kim, Wooseong},
+TITLE = {Hyperparameter Optimization for 1D-CNN-Based Network Intrusion Detection Using GA and PSO},
+JOURNAL = {Mathematics},
+VOLUME = {11},
+YEAR = {2023},
+NUMBER = {17},
+ARTICLE-NUMBER = {3724},
+URL = {https://www.mdpi.com/2227-7390/11/17/3724},
+ISSN = {2227-7390},
+DOI = {10.3390/math11173724} }
